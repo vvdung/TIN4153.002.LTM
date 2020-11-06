@@ -2,7 +2,7 @@
 
 int main() 
 {
-	printf("Hello VS Code - Socket\n");
+	printf("Hello VS Code - Socket yuy\n");
 	printf("Enter to exit app!!!");
 	getchar();  
 	return 0;
