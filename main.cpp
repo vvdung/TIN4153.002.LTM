@@ -2,9 +2,8 @@
 
 int main() 
 {
-	printf("Hello VS Code - Socket \n");
-	printf("Phi chao moi nguoi nha^^");
+	printf("Hello VS Code - Sockethhhh\n");
 	printf("Enter to exit app!!!");
 	getchar();  
 	return 0;
-} 
+	}
