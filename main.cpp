@@ -6,4 +6,4 @@ int main()
 	printf("Enter to exit app!!!");
 	getchar();  
 	return 0;
-} 
+}
