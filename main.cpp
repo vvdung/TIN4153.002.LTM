@@ -2,7 +2,7 @@
 
 int main() 
 {
-	printf("Hello VS Code - Phi khong dep trai dau =)) \n");
+	printf("Hello VS Code - alo \n");
 	printf("Enter to exit app!!!");
 	getchar();  
 	return 0;
